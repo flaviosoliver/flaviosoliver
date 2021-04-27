@@ -20,7 +20,9 @@
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviosoliver&theme=onedark" alt="flaviosoliver" />
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviosoliver&show_icons=true&theme=onedark&locale=en" alt="flaviosoliver" />
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviosoliver&show_icons=true&theme=onedark&locale=en&layout=compact" alt="flaviosoliver" />
 </p>
 
