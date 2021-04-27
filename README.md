@@ -12,10 +12,10 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-![Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/flaviosoliver)(https://twitter.com/flaviosoliver)
-![Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviosoliver/)(https://www.linkedin.com/in/flaviosoliver/)
-![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/flaviosoliver)(https://www.facebook.com/flaviosoliver)
-![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviosoliver.dev/)(https://www.instagram.com/flaviosoliver.dev/)
+![Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/flaviosoliver)
+![Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviosoliver/)
+![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/flaviosoliver)
+![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviosoliver.dev/)
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
