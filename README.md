@@ -12,10 +12,10 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://twitter.com/flaviosoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="flaviosoliver" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/flaviosoliver/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/flaviosoliver/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/flaviosoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/flaviosoliver" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/flaviosoliver.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/flaviosoliver.dev/" height="30" width="40" /></a>
+[(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/flaviosoliver)](https://twitter.com/flaviosoliver)
+[(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviosoliver/)](https://www.linkedin.com/in/flaviosoliver/)
+[(https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/flaviosoliver)](https://www.facebook.com/flaviosoliver)
+[(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviosoliver.dev/)](https://www.instagram.com/flaviosoliver.dev/)
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
