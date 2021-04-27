@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👋, eu sou Flávio S. Oliveira</h1>
-<h3 align="center">Desenvolvedor Web Full Stack em formação.
-  <br> Um desde sempre apaixonado por tecnologia e amante de novos conhecimentos, que sempre gostou lidar com hardware e suporte, e hoje seguindo sua paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.</h3>
+<h2 align="center">Olá 👋, eu sou Flávio S. Oliveira</h2>
+<h3 align="center">Desenvolvedor Web Full Stack em formação.</h3>
+<p> Um desde sempre apaixonado por tecnologia e amante de novos conhecimentos, que sempre gostou lidar com hardware e suporte, e hoje seguindo sua paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.</p>
 
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na Trybe **@betrybe** [https://www.instagram.com/betrybe/](https://www.instagram.com/betrybe/)
 
@@ -10,10 +10,10 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-![Badge Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/flaviosoliver)
-![Badge Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviosoliver/)
-![Badge Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/flaviosoliver)
-![Badge Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviosoliver.dev/)
+[![Badge Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/flaviosoliver)]
+[![Badge Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviosoliver/)]
+[![Badge Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/flaviosoliver)]
+[![Badge Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviosoliver.dev/)]
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
