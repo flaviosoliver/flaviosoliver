@@ -2,8 +2,6 @@
 <h3 align="center">Desenvolvedor Web Full Stack em formação.
   <br> Um desde sempre apaixonado por tecnologia e amante de novos conhecimentos, que sempre gostou lidar com hardware e suporte, e hoje seguindo sua paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviosoliver" alt="flaviosoliver" /></a> </p>
-
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na Trybe **@betrybe** [https://www.instagram.com/betrybe/](https://www.instagram.com/betrybe/)
 
 - 👨‍💻 Meus projetos podem ser vistos em [https://flaviosoliver.github.io/](https://flaviosoliver.github.io/)
@@ -26,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviosoliver&show_icons=true&theme=onedark&locale=en" alt="flaviosoliver" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviosoliver&theme=dark" alt="flaviosoliver" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviosoliver" alt="flaviosoliver" /></a> </p>
