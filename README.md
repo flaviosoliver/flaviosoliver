@@ -10,7 +10,7 @@
     - Desenvolvimento: HTML, CSS e JavaScript;
     - Testes Automatizados: Jest e React Testing Library (RTL);
     - Frameworks Front-end: React.JS, Redux, Hooks e ContextAPI;
-    - Bancos de Dados: MySQL (SQL) e Mongobd (NoSQL);
+    - Bancos de Dados: MySQL (SQL) e MongoDB (NoSQL);
     - Frameworks Back-end: NodeJS, Express;
     - Deployment: Heroku, Vercel;
     - Metodologias Ágeis - Scrum e Kanban;
