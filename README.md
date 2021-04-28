@@ -8,9 +8,9 @@
     - Versionamento: Git;
     - Ambientação de trabalho em Sistema Unix (Linux SO);
     - Desenvolvimento: HTML, CSS e JavaScript;
-    - Testes Automatizados: Jest;
-    - Frameworks Front-end: React.JS, Redux e ContextAPI;
-    - Bancos de Dados: MySQL, Mongobd;
+    - Testes Automatizados: Jest e React Testing Library (RTL);
+    - Frameworks Front-end: React.JS, Redux, Hooks e ContextAPI;
+    - Bancos de Dados: MySQL (SQL) e Mongobd (NoSQL);
     - Frameworks Back-end: NodeJS, Express;
     - Deployment: Heroku, Vercel;
     - Metodologias Ágeis - Scrum e Kanban;
