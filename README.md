@@ -12,7 +12,7 @@
     - Bibliotecas Front-end: React.JS, Redux, Hooks e ContextAPI;
     - Bancos de Dados: MySQL (SQL) e MongoDB (NoSQL);
     - Frameworks/Biblioteca Back-end: NodeJS, Express;
-    - Deployment: Heroku, Vercel;
+    - Deployment: Heroku, Vercel, PM2;
     - Metodologias Ágeis - Scrum e Kanban;
 
 - 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios [https://flaviosoliver.github.io/](https://flaviosoliver.github.io/)
