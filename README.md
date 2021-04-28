@@ -1,6 +1,6 @@
 <h2 align="center">Olá 👋, eu sou Flávio Oliveira</h2>
 <h3 align="center">Desenvolvedor Web Full Stack em formação.</h3>
-<p> Um desde sempre apaixonado por tecnologia e amante de novos conhecimentos, que sempre gostou lidar com hardware e suporte, e hoje seguindo sua paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.</p>
+<p> Um desde sempre apaixonado por tecnologia e amante de novos conhecimentos, que sempre gostou lidar com hardware e suporte, e hoje seguindo sua paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.:ok_hand:</p>
 
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na Trybe **@betrybe** [https://www.instagram.com/betrybe/](https://www.instagram.com/betrybe/)
 
