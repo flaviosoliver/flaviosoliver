@@ -1,10 +1,12 @@
-<h2 align="center">Olá 👋, eu sou Flávio S. Oliveira</h2>
+<h2 align="center">Olá 👋, eu sou Flávio Oliveira</h2>
 <h3 align="center">Desenvolvedor Web Full Stack em formação.</h3>
 <p> Um desde sempre apaixonado por tecnologia e amante de novos conhecimentos, que sempre gostou lidar com hardware e suporte, e hoje seguindo sua paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.</p>
 
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na Trybe **@betrybe** [https://www.instagram.com/betrybe/](https://www.instagram.com/betrybe/)
 
-- 👨‍💻 Meus projetos podem ser vistos em [https://flaviosoliver.github.io/](https://flaviosoliver.github.io/)
+- 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios [https://flaviosoliver.github.io/](https://flaviosoliver.github.io/)
+
+- :computer: Visite meu portfólio para mais detalhes e visualisar projetos em funcionamento [https://flaviosoliver-portfolio.vercel.app/](https://flaviosoliver-portfolio.vercel.app/)
 
 - 📫 Para contato **flavsoliver@gmail.com** ou [https://www.linkedin.com/in/flaviosoliver/](https://www.linkedin.com/in/flaviosoliver/)
 
