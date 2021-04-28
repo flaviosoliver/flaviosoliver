@@ -4,6 +4,17 @@
 
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na Trybe **@betrybe** [https://www.instagram.com/betrybe/](https://www.instagram.com/betrybe/)
 
+- :books: Onde até o momento aprendo, utilizo e aprimoro minhas técnicas em tecnologias Web de Front-end e Back-end:
+    - Versionamento: Git;
+    - Ambientação de trabalho em Sistema Unix (Linux SO);
+    - Desenvolvimento: HTML, CSS e JavaScript;
+    - Testes Automatizados: Jest;
+    - Frameworks Front-end: React.JS, Redux e ContextAPI;
+    - Bancos de Dados: MySQL, Mongobd;
+    - Frameworks Back-end: NodeJS, Express;
+    - Deployment: Heroku, Vercel;
+    - Metodologias Ágeis - Scrum e Kanban;
+
 - 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios [https://flaviosoliver.github.io/](https://flaviosoliver.github.io/)
 
 - :computer: Visite meu portfólio para mais detalhes e visualisar projetos em funcionamento [https://flaviosoliver-portfolio.vercel.app/](https://flaviosoliver-portfolio.vercel.app/)
