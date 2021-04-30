@@ -5,9 +5,6 @@
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na Trybe **@betrybe** [https://www.instagram.com/betrybe/](https://www.instagram.com/betrybe/)
 
 - :books: Onde até o momento aprendo, utilizo e aprimoro minhas técnicas em tecnologias Web de Front-end e Back-end:
-    - Versionamento: Git;
-    - Ambientação de trabalho em Sistema Unix (Linux SO);
-    - Desenvolvimento: HTML, CSS e JavaScript;
     - Testes Automatizados: Jest e React Testing Library (RTL);
     - Bibliotecas Front-end: React.JS, Redux, Hooks e ContextAPI;
     - Bancos de Dados: MySQL (SQL) e MongoDB (NoSQL);
