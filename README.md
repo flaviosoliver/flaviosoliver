@@ -21,8 +21,8 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <br>
 <p align="center">
-    <a href=https://www.linkedin.com/in/flaviosoliver/ target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <a href=https://www.linkedin.com/in/flaviosoliver/ >
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
     </a>
     <a href=https://www.instagram.com/flaviosoliver.dev/ target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
