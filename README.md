@@ -12,7 +12,7 @@
     - Deployment: Heroku, Vercel, PM2;
     - Metodologias Ágeis - Scrum e Kanban;
 
-- 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios [https://flaviosoliver.github.io/](https://flaviosoliver.github.io/)
+- 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios [https://github.com/flaviosoliver?tab=repositories](https://github.com/flaviosoliver?tab=repositories)
 
 - :computer: Visite meu portfólio para mais detalhes e visualisar projetos em funcionamento [https://flaviosoliver-portfolio.vercel.app/](https://flaviosoliver-portfolio.vercel.app/)
 
