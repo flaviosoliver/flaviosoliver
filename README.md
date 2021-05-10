@@ -1,10 +1,10 @@
 <h2 align="center">Olá 👋, eu sou Flávio Oliveira</h2>
 <h3 align="center">Desenvolvedor Web Full Stack</h3>
-<p> Um desde sempre apaixonado por tecnologia e amante de novos conhecimentos, que sempre gostou lidar com hardware e suporte, e hoje seguindo sua paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.:ok_hand:</p>
+<p> Desde sempre apaixonado por tecnologia e amante de novos conhecimentos, sempre gostei de lidar com hardware e suporte, e hoje seguindo minha paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.:ok_hand:</p>
 
-- 🌱 Atualmente estudando e aprimorando hard e soft-skills na Trybe **@betrybe** [https://www.instagram.com/betrybe/](https://www.instagram.com/betrybe/)
+- 🌱 Atualmente estudando e aprimorando hard e soft-skills na **<a href="https://www.betrybe.com/" target="_blank">Trybe.</a>**
 
-- :books: Onde até o momento aprendo, utilizo e aprimoro minhas técnicas em tecnologias Web de Front-end e Back-end:
+- :books: Já com a formação de **Front-end** concluída, hoje minhas principais staks são:
     - Testes Automatizados: Jest e React Testing Library (RTL);
     - Bibliotecas Front-end: React.JS, Redux, Hooks e ContextAPI;
     - Bancos de Dados: MySQL (SQL) e MongoDB (NoSQL);
@@ -12,7 +12,7 @@
     - Deployment: Heroku, Vercel, PM2;
     - Metodologias Ágeis - Scrum e Kanban;
 
-- 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios [https://github.com/flaviosoliver?tab=repositories](https://github.com/flaviosoliver?tab=repositories)
+- 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios **<a href="https://github.com/flaviosoliver?tab=repositories" target="_blank">aqui.</a>**
 
 - :computer: Visite meu portfólio para mais detalhes e visualisar projetos em funcionamento [https://flaviosoliver-portfolio.vercel.app/](https://flaviosoliver-portfolio.vercel.app/)
 
