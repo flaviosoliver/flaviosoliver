@@ -4,13 +4,13 @@
 
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na **<a href="https://www.betrybe.com/" target="_blank">Trybe.</a>**
 
-- :books: Já com a formação de **Front-end** concluída, hoje minhas principais staks são:
-    - Testes Automatizados: Jest e React Testing Library (RTL);
-    - Bibliotecas Front-end: React.JS, Redux, Hooks e ContextAPI;
-    - Bancos de Dados: MySQL (SQL) e MongoDB (NoSQL);
-    - Frameworks/Biblioteca Back-end: NodeJS, Express;
-    - Deployment: Heroku, Vercel, PM2;
-    - Metodologias Ágeis - Scrum e Kanban;
+- :books: Já com a formação de <strong>Front-end concluída,</strong> hoje minhas principais staks são:
+    - Testes Automatizados: <strong>Jest</strong> e <strong>React Testing Library (RTL);</strong>
+    - Bibliotecas Front-end: <strong>React.JS, Redux, Hooks</strong> e <strong>ContextAPI;</strong>
+    - Bancos de Dados: <strong>MySQL (SQL)</strong> e <strong>MongoDB (NoSQL);</strong>
+    - Frameworks/Biblioteca Back-end: <strong>NodeJS, Express;</strong>
+    - Deployment: <strong>Heroku, Vercel, PM2;</strong>
+    - Metodologias Ágeis - <strong>Scrum</strong> e <strong>Kanban;</strong>
 
 - 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios **<a href="https://github.com/flaviosoliver?tab=repositories" target="_blank">aqui.</a>**
 
