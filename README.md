@@ -8,7 +8,7 @@
     - Testes Automatizados: <strong>Jest</strong> e <strong>React Testing Library (RTL);</strong>
     - Bibliotecas Front-end: <strong>React.JS, Redux, Hooks</strong> e <strong>ContextAPI;</strong>
     - Bancos de Dados: <strong>MySQL (SQL)</strong> e <strong>MongoDB (NoSQL);</strong>
-    - Frameworks/Biblioteca Back-end: <strong>NodeJS, Express;</strong>
+    - Frameworks/Biblioteca Back-end: <strong>NodeJS, Express, ORM: Sequelize;</strong>
     - Deployment: <strong>Heroku, Vercel, PM2;</strong>
     - Metodologias Ágeis - <strong>Scrum</strong> e <strong>Kanban;</strong>
 
