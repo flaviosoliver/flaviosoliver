@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estudando e aprimorando hard e soft-skills na **<a href="https://www.betrybe.com/" target="_blank">Trybe.</a>**
 
-- :books: Já com a formação de <strong>Front-end concluída,</strong> hoje minhas principais staks são:
+- :books: Já com a formação de <strong>Front-end e Back-end concluídas,</strong> hoje minhas principais staks são:
     - Testes Automatizados: <strong>Jest</strong> e <strong>React Testing Library (RTL);</strong>
     - Bibliotecas Front-end: <strong>React.JS, Redux, Hooks</strong> e <strong>ContextAPI;</strong>
     - Bancos de Dados: <strong>MySQL (SQL)</strong> e <strong>MongoDB (NoSQL);</strong>
