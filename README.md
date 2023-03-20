@@ -2,22 +2,22 @@
 <h3 align="center">Desenvolvedor Web Full Stack</h3>
 <p> Desde sempre apaixonado por tecnologia e amante de novos conhecimentos, sempre gostei de lidar com hardware e suporte, e hoje seguindo minha paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.👌🏿</p>
 
-- ✅ Desenvolvedor formado na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** em 2021.
+- 🚀 Desenvolvedor formado na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** em 2021.
 
-- :books: Já com habilidades em <strong>Front-end e Back-end,</strong> hoje minhas principais staks são:
-    - Lingagens: <strong>JavaScript</strong> e <strong>TypeScript;</strong>
-    - Testes Automatizados: <strong>Jest</strong> e <strong>React Testing Library (RTL);</strong>
-    - Bibliotecas Front-end: <strong>Angular; React.JS com Redux, Hooks</strong> e <strong>ContextAPI;</strong>
+- 🛠️ Com habilidades em <strong>Front-end e Back-end,</strong> hoje minhas principais staks são:
+    - Linguagens: <strong>JavaScript</strong> e <strong>TypeScript;</strong>
+    - Testes: <strong>Jest</strong> e <strong>React Testing Library (RTL);</strong>
+    - Frameworks/Bibliotecas Front-end: <strong>Angular; React.JS com Redux, Hooks</strong> e <strong>ContextAPI;</strong>
     - Bancos de Dados: <strong>MySQL (SQL)</strong> e <strong>MongoDB (NoSQL);</strong>
     - Frameworks/Biblioteca Back-end: <strong>NodeJS, Express, Nestjs, ORM: Sequelize; ODM: Mongoose</strong>
     - Deployment: <strong>Heroku, Vercel, PM2;</strong>
-    - Metodologias Ágeis - <strong>Scrum</strong> e <strong>Kanban;</strong>
+    - Metodologias Ágeis: <strong>Scrum</strong> e <strong>Kanban;</strong>
 
 - 👨🏿‍💻 Meus projetos podem ser vistos em códigos por repositórios **<a href="https://github.com/flaviosoliver?tab=repositories" target="_blank">aqui.</a>**
 
-- :computer: Visite meu portfólio para mais detalhes e visualisar projetos em funcionamento [https://flaviosoliver-portfolio.vercel.app/](https://flaviosoliver-portfolio.vercel.app/)
+- 🌐 Visite meu portfólio para mais detalhes e visualisar projetos em funcionamento [https://flaviosoliver-portfolio.vercel.app/](https://flaviosoliver-portfolio.vercel.app/)
 
-- 📫 E-mail para contato **flavsoliver@gmail.com**
+- 📧 E-mail para contato **flavsoliver@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <br>
