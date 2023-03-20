@@ -1,8 +1,8 @@
-<h2 align="center">Olá 👋, eu sou Flávio Oliveira</h2>
+<h2 align="center">Olá 👋🏿, eu sou Flávio Oliveira</h2>
 <h3 align="center">Desenvolvedor Web Full Stack</h3>
-<p> Desde sempre apaixonado por tecnologia e amante de novos conhecimentos, sempre gostei de lidar com hardware e suporte, e hoje seguindo minha paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.:ok_hand:</p>
+<p> Desde sempre apaixonado por tecnologia e amante de novos conhecimentos, sempre gostei de lidar com hardware e suporte, e hoje seguindo minha paixão por Tech, desenvolvendo, testando, quebrando, debbugando e deployando códigos.👌🏿</p>
 
-- 🌱 Desenvilvedor formado na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** em 2021.
+- ✅ Desenvolvedor formado na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** em 2021.
 
 - :books: Já com habilidades em <strong>Front-end e Back-end,</strong> hoje minhas principais staks são:
     - Lingagens: <strong>JavaScript</strong> e <strong>TypeScript;</strong>
@@ -13,7 +13,7 @@
     - Deployment: <strong>Heroku, Vercel, PM2;</strong>
     - Metodologias Ágeis - <strong>Scrum</strong> e <strong>Kanban;</strong>
 
-- 👨‍💻 Meus projetos podem ser vistos em códigos por repositórios **<a href="https://github.com/flaviosoliver?tab=repositories" target="_blank">aqui.</a>**
+- 👨🏿‍💻 Meus projetos podem ser vistos em códigos por repositórios **<a href="https://github.com/flaviosoliver?tab=repositories" target="_blank">aqui.</a>**
 
 - :computer: Visite meu portfólio para mais detalhes e visualisar projetos em funcionamento [https://flaviosoliver-portfolio.vercel.app/](https://flaviosoliver-portfolio.vercel.app/)
 
