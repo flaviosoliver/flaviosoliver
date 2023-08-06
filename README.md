@@ -117,7 +117,3 @@
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviosoliver&theme=onedark" alt="flaviosoliver" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=flaviosoliver&theme=onedark&row=2&column=3&no-frame=true&margin-h=15&margin-w=15" alt="flaviosoliver" />
-</p>
